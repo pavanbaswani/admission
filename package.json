@@ -1,0 +1,24 @@
+{
+  "name": "admissionbot",
+  "version": "1.0.0",
+  "description": "college admissions",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^4.16.3",
+    "recastai": "^3.7.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "modules",
+    "npm"
+  ],
+  "author": "csengineer",
+  "license": "UNLICENCED"
+}
